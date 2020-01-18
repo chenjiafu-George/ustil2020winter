@@ -1,0 +1,17 @@
+﻿  源.c
+D:\vs源码\C\链表\源.c(25,14): warning C4133: “=”: 从“NODE *”到“NODE *”的类型不兼容
+D:\vs源码\C\链表\源.c(34,13): warning C4133: “=”: 从“NODE *”到“NODE *”的类型不兼容
+D:\vs源码\C\链表\源.c(39,14): warning C4133: “=”: 从“NODE *”到“NODE *”的类型不兼容
+D:\vs源码\C\链表\源.c(46,13): warning C4133: “=”: 从“NODE *”到“NODE *”的类型不兼容
+D:\vs源码\C\链表\源.c(50,14): warning C4133: “=”: 从“NODE *”到“NODE *”的类型不兼容
+D:\vs源码\C\链表\源.c(59,13): warning C4133: “=”: 从“NODE *”到“NODE *”的类型不兼容
+D:\vs源码\C\链表\源.c(73,14): warning C4133: “=”: 从“NODE *”到“NODE *”的类型不兼容
+D:\vs源码\C\链表\源.c(83,13): warning C4133: “=”: 从“NODE *”到“NODE *”的类型不兼容
+D:\vs源码\C\链表\源.c(99,14): warning C4133: “=”: 从“NODE *”到“NODE *”的类型不兼容
+D:\vs源码\C\链表\源.c(110,13): warning C4133: “=”: 从“NODE *”到“NODE *”的类型不兼容
+D:\vs源码\C\链表\源.c(126,14): warning C4133: “=”: 从“NODE *”到“NODE *”的类型不兼容
+D:\vs源码\C\链表\源.c(138,12): warning C4047: “return”:“int”与“NODE *”的间接级别不同
+D:\vs源码\C\链表\源.c(150,14): warning C4133: “=”: 从“NODE *”到“NODE *”的类型不兼容
+D:\vs源码\C\链表\源.c(161,12): warning C4047: “return”:“int”与“NODE *”的间接级别不同
+D:\vs源码\C\链表\源.c(166,6): warning C4101: “j”: 未引用的局部变量
+  链表.vcxproj -> D:\vs源码\C\链表\Debug\链表.exe
