@@ -1,0 +1,4 @@
+﻿  源.c
+D:\vs源码\C\循环列表\源.c(249,20): warning C4013: “Lengthsqueue”未定义；假设外部返回 int
+D:\vs源码\C\循环列表\源.c(268): warning C4716: “Findsqueue”: 必须返回一个值
+  循环列表.vcxproj -> D:\vs源码\C\循环列表\Debug\循环列表.exe

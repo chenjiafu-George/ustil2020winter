@@ -1,0 +1,4 @@
+﻿  顺序队列.c
+D:\vs源码\C\顺序队列\顺序队列.c(25,20): warning C4013: “Lengthsqueue”未定义；假设外部返回 int
+D:\vs源码\C\顺序队列\顺序队列.c(44): warning C4716: “Findsqueue”: 必须返回一个值
+  顺序队列.vcxproj -> D:\vs源码\C\顺序队列\Debug\顺序队列.exe
